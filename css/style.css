@@ -1,0 +1,9 @@
+.section-header {
+    background: url(../images/showcase.jpg);
+    background-size: cover;
+    background-position: center;
+
+    height: 400px;
+
+    text-transform: uppercase;
+}
