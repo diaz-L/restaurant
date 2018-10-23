@@ -3,7 +3,22 @@
     background-size: cover;
     background-position: center;
 
-    height: 400px;
+    height: 450px;
 
     text-transform: uppercase;
+}
+
+.section-header .brand-logo {
+    font-family: 'Oregano', cursive;
+}
+
+.section-header .showcase {
+    padding-top: 50px;
+}
+
+.showcase a {
+    border: 1px solid pink;
+}
+.showcase a:hover {
+    color: pink;
 }
