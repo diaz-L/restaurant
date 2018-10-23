@@ -27,3 +27,29 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.section-discover .row {
+    display: flex;
+}
+
+.discover-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.title-align {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+ 
+p.discover-title:before {
+    display: block;
+    content: '';
+    width: 30px;
+    height: 3px;
+    background: #f5a637;
+    margin-bottom: 5px;
+} 
